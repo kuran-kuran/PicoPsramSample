@@ -3,10 +3,10 @@ RP2350マイコンでRSRAMを使いたい!
 
 ## 対応基板
 
-- WeAct RP2350B
+- WeAct RP2350B 
 psram_init(0)で初期化 
 
-- Pimoroni Pico Plus 2
+- Pimoroni Pico Plus 2 
 psram_init(PIMORONI_PICO_PLUS2_PSRAM_CS_PIN)で初期化 
 
 - サイズとアドレス
