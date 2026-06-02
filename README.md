@@ -9,7 +9,7 @@ psram_init(0)で初期化
 - Pimoroni Pico Plus 2  
 psram_init(PIMORONI_PICO_PLUS2_PSRAM_CS_PIN)で初期化 
 
-- サイズとアドレス 
+- サイズとアドレス  
 #define PSRAM_BASE 0x11000000  
 #define PSRAM_SIZE (8 * 1024 * 1024)  
 psram.hppで定義している。  
